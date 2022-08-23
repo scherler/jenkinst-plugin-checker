@@ -1,0 +1,9 @@
+jenkinsci/blueocean-js-builder
+jenkinsci/codehealth-plugin
+jenkinsci/job-dsl-plugin
+jenkinsci/js-builder
+jenkinsci/js-libs
+jenkinsci/js-samples
+jenkinsci/pipeline-editor-plugin
+jenkinsci/pipeline-stage-view-plugin
+jenkinsci/uithemes-plugin
