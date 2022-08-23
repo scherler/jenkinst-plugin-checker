@@ -1,0 +1,1 @@
+Simple tool to check whether a list of plugins is active, based on the releases.
